@@ -10,7 +10,7 @@ You can likely use other websites to generate a QR code, but this is the website
 3. Enter your information.
 4. Keep this website open with the generated QR code while you perform the next steps.
 
-![](images/SampleQRcodegenerator.png)
+![](Images/SampleQRcodegenerator.png)
 
 ## Step 2: Make Apple Wallet Card.
 Go to your smartphone now to complete these steps. These are for iPhones.
