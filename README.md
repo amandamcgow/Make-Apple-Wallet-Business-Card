@@ -36,6 +36,6 @@ Go to your smartphone now to complete these steps. These are for iPhones.
 
 16. Add to your Apple wallet. Now when people scan the QR code, it will ask if they want to add you as a contact.
 
-<img src="https://github.com/amandamcgow/Make-Apple-Wallet-Business-Card/blob/main/Images/SampleAddtoAppleWallet.PNG" width="300" height="600"> <img src="https://github.com/amandamcgow/Make-Apple-Wallet-Business-Card/blob/main/Images/SampleScanContact.PNG" width="300" height="600">
+<img src="https://github.com/amandamcgow/Make-Apple-Wallet-Business-Card/blob/main/Images/SampleAddtoAppleWallet.PNG" width="300" height="600"> <img src="https://github.com/amandamcgow/Make-Apple-Wallet-Business-Card/blob/main/Images/SampleScanContact.PNG" width="300" height="600"> <img src="https://github.com/amandamcgow/Make-Apple-Wallet-Business-Card/blob/main/Images/SampleAppleWalletCard.PNG" width="300" height="600">
 
 
