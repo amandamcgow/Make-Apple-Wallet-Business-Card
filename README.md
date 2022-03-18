@@ -31,11 +31,11 @@ Go to your smartphone now to complete these steps. These are for iPhones.
 13. Click the ticket beside the header field to add a logo if you want.
 14. Click the check mark at the top left to make the card.
 
-![](Images/SampleCard.png)
+![](Images/SampleCard.PNG)
 
 
 16. Add to your Apple wallet. Now when people scan the QR code, it will ask if they want to add you as a contact.
 
-![](Images/SampleAddtoAppleWallet.png)
+![](Images/SampleAddtoAppleWallet.PNG)
 
-![](Images/SampleScanContact.png)
+![](Images/SampleScanContact.PNG)
